@@ -1,6 +1,3 @@
-Here's a README file tailored for your AI app project, *Nimbo AI*. It's designed to showcase your work effectively on GitHub:
-
----
 
 # 🧠 Nimbo AI  
 Nimbo AI is a conversational AI app built using **SwiftUI**. It provides an intuitive and visually appealing chat interface, enabling users to interact with an AI-powered chatbot in real time.  
